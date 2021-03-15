@@ -9,7 +9,7 @@
     "client": "npm run start --prefix client2",
     "dev": "concurrently \" npm run client2 \" \" npm run server \" "
   },
-  "author": "Himanshu Sharma",
+  "author": "GM",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
